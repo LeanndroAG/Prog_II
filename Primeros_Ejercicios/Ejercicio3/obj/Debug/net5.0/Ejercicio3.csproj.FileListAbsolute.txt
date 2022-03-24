@@ -1,0 +1,16 @@
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.exe
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.deps.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.dev.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\bin\Debug\net5.0\Ejercicio3.pdb
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\refint\Ejercicio3.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.pdb
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia2022\Primeros_Ejercicios\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio3.dll
